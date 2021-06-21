@@ -1,0 +1,935 @@
+year,category,birth country,sex,age_at_award
+1901,Chemistry,Netherlands,Male,49
+1901,Literature,France,Male,62
+1901,Medicine,Poland,Male,47
+1901,Peace,Switzerland,Male,73
+1901,Peace,France,Male,79
+1901,Physics,Germany,Male,56
+1902,Chemistry,Germany,Male,50
+1902,Literature,Germany,Male,85
+1902,Medicine,India,Male,45
+1902,Peace,Switzerland,Male,69
+1902,Peace,Switzerland,Male,59
+1902,Physics,Netherlands,Male,49
+1902,Physics,Netherlands,Male,37
+1903,Chemistry,Sweden,Male,44
+1903,Literature,Norway,Male,71
+1903,Medicine,Denmark,Male,43
+1903,Peace,United Kingdom,Male,75
+1903,Physics,France,Male,51
+1903,Physics,France,Male,44
+1903,Physics,Poland,Female,36
+1904,Chemistry,Scotland,Male,52
+1904,Literature,France,Male,74
+1904,Literature,Spain,Male,72
+1904,Medicine,Russia,Male,55
+1904,Physics,United Kingdom,Male,62
+1905,Chemistry,Germany,Male,70
+1905,Literature,Poland,Male,59
+1905,Medicine,Germany,Male,62
+1905,Peace,Czech Republic,Female,62
+1905,Physics,Slovakia,Male,43
+1906,Chemistry,France,Male,54
+1906,Literature,Italy,Male,71
+1906,Medicine,Italy,Male,63
+1906,Medicine,Spain,Male,54
+1906,Peace,United States of America,Male,48
+1906,Physics,United Kingdom,Male,50
+1907,Chemistry,Germany,Male,47
+1907,Literature,India,Male,41
+1907,Medicine,France,Male,62
+1907,Peace,Italy,Male,74
+1907,Peace,France,Male,64
+1907,Physics,Poland,Male,55
+1908,Chemistry,New Zealand,Male,37
+1908,Literature,Germany,Male,62
+1908,Medicine,Ukraine,Male,63
+1908,Medicine,Poland,Male,54
+1908,Medicine,Poland,Male,54
+1908,Peace,Sweden,Male,64
+1908,Peace,Denmark,Male,71
+1908,Physics,Luxembourg,Male,63
+1909,Chemistry,Latvia,Male,56
+1909,Literature,Sweden,Female,51
+1909,Medicine,Switzerland,Male,68
+1909,Peace,Belgium,Male,80
+1909,Peace,France,Male,57
+1909,Physics,Italy,Male,35
+1909,Physics,Germany,Male,59
+1910,Chemistry,Russia,Male,63
+1910,Literature,Germany,Male,80
+1910,Medicine,Germany,Male,57
+1910,Physics,Netherlands,Male,73
+1911,Chemistry,Poland,Female,44
+1911,Literature,Belgium,Male,49
+1911,Medicine,Sweden,Male,49
+1911,Peace,Netherlands,Male,73
+1911,Peace,Austria,Male,47
+1911,Physics,Russia,Male,47
+1912,Chemistry,France,Male,41
+1912,Chemistry,France,Male,58
+1912,Literature,Germany,Male,50
+1912,Medicine,France,Male,39
+1912,Peace,United States of America,Male,67
+1912,Physics,Sweden,Male,43
+1913,Chemistry,France,Male,47
+1913,Literature,India,Male,52
+1913,Medicine,France,Male,63
+1913,Peace,Belgium,Male,59
+1913,Physics,Netherlands,Male,60
+1914,Chemistry,United States of America,Male,46
+1914,Medicine,Austria,Male,38
+1914,Physics,Germany,Male,35
+1915,Chemistry,Germany,Male,43
+1915,Literature,France,Male,49
+1915,Physics,United Kingdom,Male,53
+1915,Physics,Australia,Male,25
+1916,Literature,Sweden,Male,57
+1917,Literature,Denmark,Male,60
+1917,Literature,Denmark,Male,60
+1917,Physics,United Kingdom,Male,40
+1918,Chemistry,Poland,Male,50
+1918,Physics,Germany,Male,60
+1919,Literature,Switzerland,Male,74
+1919,Medicine,Belgium,Male,49
+1919,Peace,United States of America,Male,62
+1919,Physics,Germany,Male,45
+1920,Chemistry,Germany,Male,56
+1920,Literature,Norway,Male,61
+1920,Medicine,Denmark,Male,46
+1920,Peace,France,Male,69
+1920,Physics,Switzerland,Male,59
+1921,Chemistry,United Kingdom,Male,44
+1921,Literature,France,Male,77
+1921,Peace,Sweden,Male,61
+1921,Peace,Norway,Male,52
+1921,Physics,Germany,Male,42
+1922,Chemistry,United Kingdom,Male,45
+1922,Literature,Spain,Male,56
+1922,Medicine,United Kingdom,Male,36
+1922,Medicine,Germany,Male,38
+1922,Peace,Norway,Male,61
+1922,Physics,Denmark,Male,37
+1923,Chemistry,Slovenia,Male,54
+1923,Literature,Ireland,Male,58
+1923,Medicine,Canada,Male,32
+1923,Medicine,Scotland,Male,47
+1923,Physics,United States of America,Male,55
+1924,Literature,Poland,Male,57
+1924,Medicine,Indonesia,Male,64
+1924,Physics,Sweden,Male,38
+1925,Chemistry,Austria,Male,60
+1925,Literature,Ireland,Male,69
+1925,Peace,United Kingdom,Male,62
+1925,Peace,United States of America,Male,60
+1925,Physics,Germany,Male,43
+1925,Physics,Germany,Male,38
+1926,Chemistry,Sweden,Male,42
+1926,Literature,Italy,Female,55
+1926,Medicine,Denmark,Male,59
+1926,Peace,France,Male,64
+1926,Peace,Germany,Male,48
+1926,Physics,France,Male,56
+1927,Chemistry,Germany,Male,50
+1927,Literature,France,Male,68
+1927,Medicine,Austria,Male,70
+1927,Peace,France,Male,86
+1927,Peace,Germany,Male,69
+1927,Physics,United States of America,Male,35
+1927,Physics,Scotland,Male,58
+1928,Chemistry,Germany,Male,51
+1928,Literature,Denmark,Female,46
+1928,Medicine,France,Male,62
+1928,Physics,United Kingdom,Male,49
+1929,Chemistry,United Kingdom,Male,64
+1929,Chemistry,Germany,Male,56
+1929,Literature,Germany,Male,54
+1929,Medicine,Netherlands,Male,71
+1929,Medicine,United Kingdom,Male,68
+1929,Peace,United States of America,Male,73
+1929,Physics,France,Male,37
+1930,Chemistry,Germany,Male,49
+1930,Literature,United States of America,Male,45
+1930,Medicine,Austria,Male,62
+1930,Peace,Sweden,Male,64
+1930,Physics,India,Male,42
+1931,Chemistry,Germany,Male,57
+1931,Chemistry,Germany,Male,57
+1931,Chemistry,Poland,Male,47
+1931,Chemistry,Poland,Male,47
+1931,Literature,Sweden,Male,67
+1931,Medicine,Germany,Male,48
+1931,Peace,United States of America,Female,71
+1931,Peace,United States of America,Male,69
+1932,Chemistry,United States of America,Male,51
+1932,Literature,United Kingdom,Male,65
+1932,Medicine,United Kingdom,Male,75
+1932,Medicine,United Kingdom,Male,43
+1932,Physics,Germany,Male,31
+1933,Literature,Russia,Male,63
+1933,Medicine,United States of America,Male,67
+1933,Peace,United Kingdom,Male,60
+1933,Physics,Austria,Male,46
+1933,Physics,United Kingdom,Male,31
+1934,Chemistry,United States of America,Male,41
+1934,Literature,Italy,Male,67
+1934,Medicine,United States of America,Male,56
+1934,Medicine,United States of America,Male,49
+1934,Medicine,United States of America,Male,42
+1934,Medicine,United States of America,Male,42
+1934,Peace,Scotland,Male,71
+1935,Chemistry,France,Male,35
+1935,Chemistry,France,Female,38
+1935,Medicine,Germany,Male,66
+1935,Peace,Germany,Male,46
+1935,Physics,United Kingdom,Male,44
+1936,Chemistry,Netherlands,Male,52
+1936,Chemistry,Netherlands,Male,52
+1936,Literature,United States of America,Male,48
+1936,Medicine,United Kingdom,Male,61
+1936,Medicine,Germany,Male,63
+1936,Peace,Argentina,Male,58
+1936,Physics,Austria,Male,53
+1936,Physics,United States of America,Male,31
+1937,Chemistry,United Kingdom,Male,54
+1937,Chemistry,Russia,Male,48
+1937,Literature,France,Male,56
+1937,Medicine,Hungary,Male,44
+1937,Peace,United Kingdom,Male,73
+1937,Physics,United States of America,Male,56
+1937,Physics,United Kingdom,Male,45
+1938,Chemistry,Austria,Male,38
+1938,Chemistry,Austria,Male,38
+1938,Literature,United States of America,Female,46
+1938,Medicine,Belgium,Male,46
+1938,Physics,Italy,Male,37
+1939,Chemistry,Germany,Male,36
+1939,Chemistry,Germany,Male,36
+1939,Chemistry,Croatia,Male,52
+1939,Literature,Finland,Male,51
+1939,Medicine,Poland,Male,44
+1939,Physics,United States of America,Male,38
+1943,Chemistry,Hungary,Male,58
+1943,Medicine,Denmark,Male,48
+1943,Medicine,United States of America,Male,50
+1943,Physics,Poland,Male,55
+1944,Chemistry,Germany,Male,65
+1944,Literature,Denmark,Male,71
+1944,Medicine,United States of America,Male,70
+1944,Medicine,United States of America,Male,56
+1944,Physics,Poland,Male,46
+1945,Chemistry,Finland,Male,50
+1945,Literature,Chile,Female,56
+1945,Medicine,Scotland,Male,64
+1945,Medicine,Germany,Male,39
+1945,Medicine,Australia,Male,47
+1945,Peace,United States of America,Male,74
+1945,Physics,Austria,Male,45
+1946,Chemistry,United States of America,Male,59
+1946,Chemistry,United States of America,Male,55
+1946,Chemistry,United States of America,Male,42
+1946,Literature,Germany,Male,69
+1946,Medicine,United States of America,Male,56
+1946,Peace,United States of America,Female,79
+1946,Peace,United States of America,Male,81
+1946,Physics,United States of America,Male,64
+1947,Chemistry,United Kingdom,Male,61
+1947,Literature,France,Male,78
+1947,Medicine,Czech Republic,Male,51
+1947,Medicine,Czech Republic,Female,51
+1947,Medicine,Argentina,Male,60
+1947,Physics,United Kingdom,Male,55
+1948,Chemistry,Sweden,Male,46
+1948,Literature,United States of America,Male,60
+1948,Medicine,Switzerland,Male,49
+1948,Physics,United Kingdom,Male,51
+1949,Chemistry,Canada,Male,54
+1949,Literature,United States of America,Male,52
+1949,Medicine,Switzerland,Male,68
+1949,Medicine,Portugal,Male,75
+1949,Medicine,Portugal,Male,75
+1949,Peace,Scotland,Male,69
+1949,Physics,Japan,Male,42
+1949,Physics,Japan,Male,42
+1950,Chemistry,Germany,Male,74
+1950,Chemistry,Poland,Male,48
+1950,Literature,United Kingdom,Male,78
+1950,Medicine,United States of America,Male,64
+1950,Medicine,Poland,Male,53
+1950,Medicine,United States of America,Male,54
+1950,Peace,United States of America,Male,46
+1950,Physics,United Kingdom,Male,47
+1951,Chemistry,United States of America,Male,44
+1951,Chemistry,United States of America,Male,39
+1951,Literature,Sweden,Male,60
+1951,Medicine,South Africa,Male,52
+1951,Peace,France,Male,72
+1951,Physics,United Kingdom,Male,54
+1951,Physics,Ireland,Male,48
+1952,Chemistry,United Kingdom,Male,42
+1952,Chemistry,United Kingdom,Male,38
+1952,Literature,France,Male,67
+1952,Medicine,Ukraine,Male,64
+1952,Peace,France,Male,77
+1952,Physics,Switzerland,Male,47
+1952,Physics,United States of America,Male,40
+1953,Chemistry,Germany,Male,72
+1953,Chemistry,Germany,Male,72
+1953,Literature,United Kingdom,Male,79
+1953,Medicine,Germany,Male,53
+1953,Medicine,Russia,Male,54
+1953,Medicine,Russia,Male,54
+1953,Peace,United States of America,Male,72
+1953,Physics,Netherlands,Male,65
+1954,Chemistry,United States of America,Male,53
+1954,Literature,United States of America,Male,55
+1954,Medicine,United States of America,Male,57
+1954,Medicine,United States of America,Male,57
+1954,Medicine,United States of America,Male,39
+1954,Medicine,United States of America,Male,38
+1954,Physics,Poland,Male,72
+1954,Physics,Germany,Male,63
+1954,Physics,Germany,Male,63
+1955,Chemistry,United States of America,Male,54
+1955,Literature,Iceland,Male,53
+1955,Medicine,Sweden,Male,52
+1955,Physics,United States of America,Male,42
+1955,Physics,Germany,Male,44
+1956,Chemistry,United Kingdom,Male,59
+1956,Chemistry,Russia,Male,60
+1956,Literature,Spain,Male,75
+1956,Medicine,France,Male,61
+1956,Medicine,Germany,Male,52
+1956,Medicine,Germany,Male,52
+1956,Medicine,United States of America,Male,61
+1956,Physics,United Kingdom,Male,46
+1956,Physics,United States of America,Male,48
+1956,Physics,China,Male,54
+1957,Chemistry,Scotland,Male,50
+1957,Literature,Algeria,Male,44
+1957,Medicine,Switzerland,Male,50
+1957,Peace,Canada,Male,60
+1957,Physics,China,Male,35
+1957,Physics,China,Male,31
+1958,Chemistry,United Kingdom,Male,40
+1958,Literature,Russia,Male,68
+1958,Medicine,United States of America,Male,55
+1958,Medicine,United States of America,Male,49
+1958,Medicine,United States of America,Male,33
+1958,Peace,Belgium,Male,48
+1958,Physics,Russia,Male,54
+1958,Physics,Russia,Male,63
+1958,Physics,Russia,Male,63
+1958,Physics,Russia,Male,50
+1958,Physics,Russia,Male,50
+1959,Chemistry,Czech Republic,Male,69
+1959,Literature,Italy,Male,58
+1959,Medicine,Spain,Male,54
+1959,Medicine,United States of America,Male,41
+1959,Peace,United Kingdom,Male,70
+1959,Physics,Italy,Male,54
+1959,Physics,United States of America,Male,39
+1960,Chemistry,United States of America,Male,52
+1960,Literature,Guadeloupe Island,Male,73
+1960,Medicine,Australia,Male,61
+1960,Medicine,Brazil,Male,45
+1960,Physics,United States of America,Male,34
+1961,Chemistry,United States of America,Male,50
+1961,Literature,Bosnia and Herzegovina,Male,69
+1961,Medicine,Hungary,Male,62
+1961,Peace,Sweden,Male,56
+1961,Physics,United States of America,Male,46
+1961,Physics,Germany,Male,32
+1961,Physics,Germany,Male,32
+1962,Chemistry,Austria,Male,48
+1962,Chemistry,United Kingdom,Male,45
+1962,Literature,United States of America,Male,60
+1962,Medicine,United Kingdom,Male,46
+1962,Medicine,United States of America,Male,34
+1962,Medicine,New Zealand,Male,46
+1962,Peace,United States of America,Male,61
+1962,Physics,Azerbaijan,Male,54
+1963,Chemistry,Germany,Male,65
+1963,Chemistry,Italy,Male,60
+1963,Literature,Turkey,Male,63
+1963,Medicine,Australia,Male,60
+1963,Medicine,United Kingdom,Male,49
+1963,Medicine,United Kingdom,Male,46
+1963,Physics,Hungary,Male,61
+1963,Physics,Poland,Female,57
+1963,Physics,Germany,Male,56
+1964,Chemistry,Egypt,Female,54
+1964,Literature,France,Male,59
+1964,Medicine,Poland,Male,52
+1964,Medicine,Germany,Male,53
+1964,Peace,United States of America,Male,35
+1964,Physics,United States of America,Male,49
+1964,Physics,Russia,Male,42
+1964,Physics,Australia,Male,48
+1965,Chemistry,United States of America,Male,48
+1965,Literature,Russia,Male,60
+1965,Medicine,France,Male,45
+1965,Medicine,France,Male,63
+1965,Medicine,France,Male,55
+1965,Physics,Japan,Male,59
+1965,Physics,United States of America,Male,47
+1965,Physics,United States of America,Male,47
+1966,Chemistry,United States of America,Male,70
+1966,Literature,Ukraine,Male,78
+1966,Literature,Germany,Female,75
+1966,Medicine,United States of America,Male,87
+1966,Medicine,Canada,Male,65
+1966,Physics,France,Male,64
+1967,Chemistry,Germany,Male,40
+1967,Chemistry,United Kingdom,Male,70
+1967,Chemistry,United Kingdom,Male,47
+1967,Literature,Guatemala,Male,68
+1967,Medicine,Finland,Male,67
+1967,Medicine,United States of America,Male,64
+1967,Medicine,United States of America,Male,61
+1967,Physics,France,Male,61
+1968,Chemistry,Norway,Male,65
+1968,Literature,Japan,Male,69
+1968,Medicine,United States of America,Male,46
+1968,Medicine,India,Male,46
+1968,Medicine,United States of America,Male,41
+1968,Peace,France,Male,81
+1968,Physics,United States of America,Male,57
+1969,Chemistry,United Kingdom,Male,51
+1969,Chemistry,Norway,Male,72
+1969,Economics,Norway,Male,74
+1969,Economics,Netherlands,Male,66
+1969,Literature,Ireland,Male,63
+1969,Medicine,Germany,Male,63
+1969,Medicine,United States of America,Male,61
+1969,Medicine,Italy,Male,57
+1969,Physics,United States of America,Male,40
+1970,Chemistry,France,Male,64
+1970,Economics,United States of America,Male,55
+1970,Literature,Russia,Male,52
+1970,Medicine,Germany,Male,59
+1970,Medicine,Sweden,Male,65
+1970,Medicine,United States of America,Male,58
+1970,Peace,United States of America,Male,56
+1970,Physics,Sweden,Male,62
+1970,Physics,France,Male,66
+1971,Chemistry,Germany,Male,67
+1971,Economics,Belarus,Male,70
+1971,Literature,Chile,Male,67
+1971,Medicine,United States of America,Male,56
+1971,Peace,Germany,Male,58
+1971,Physics,Hungary,Male,71
+1972,Chemistry,United States of America,Male,56
+1972,Chemistry,United States of America,Male,59
+1972,Chemistry,United States of America,Male,61
+1972,Economics,United Kingdom,Male,68
+1972,Economics,United States of America,Male,51
+1972,Literature,Germany,Male,55
+1972,Medicine,United States of America,Male,43
+1972,Medicine,United Kingdom,Male,55
+1972,Physics,United States of America,Male,64
+1972,Physics,United States of America,Male,42
+1972,Physics,United States of America,Male,41
+1973,Chemistry,Germany,Male,55
+1973,Chemistry,United Kingdom,Male,52
+1973,Economics,Russia,Male,67
+1973,Literature,United Kingdom,Male,61
+1973,Medicine,Austria,Male,87
+1973,Medicine,Austria,Male,70
+1973,Medicine,Netherlands,Male,66
+1973,Peace,Germany,Male,50
+1973,Physics,Japan,Male,48
+1973,Physics,Norway,Male,44
+1973,Physics,United Kingdom,Male,33
+1974,Chemistry,United States of America,Male,64
+1974,Economics,Sweden,Male,76
+1974,Economics,Austria,Male,75
+1974,Literature,Sweden,Male,74
+1974,Literature,Sweden,Male,70
+1974,Medicine,Belgium,Male,76
+1974,Medicine,United Kingdom,Male,57
+1974,Medicine,United Kingdom,Male,57
+1974,Medicine,Romania,Male,62
+1974,Peace,France,Male,70
+1974,Peace,Japan,Male,73
+1974,Physics,United Kingdom,Male,56
+1974,Physics,United Kingdom,Male,50
+1975,Chemistry,Australia,Male,58
+1975,Chemistry,Bosnia and Herzegovina,Male,69
+1975,Economics,Russia,Male,63
+1975,Economics,Netherlands,Male,65
+1975,Literature,Italy,Male,79
+1975,Medicine,United States of America,Male,37
+1975,Medicine,Italy,Male,61
+1975,Medicine,United States of America,Male,41
+1975,Peace,Russia,Male,54
+1975,Physics,Denmark,Male,53
+1975,Physics,United States of America,Male,49
+1975,Physics,United States of America,Male,58
+1976,Chemistry,United States of America,Male,57
+1976,Economics,United States of America,Male,64
+1976,Literature,Canada,Male,61
+1976,Medicine,United States of America,Male,51
+1976,Medicine,United States of America,Male,53
+1976,Peace,Northern Ireland,Female,33
+1976,Peace,Northern Ireland,Female,32
+1976,Physics,United States of America,Male,45
+1976,Physics,United States of America,Male,40
+1977,Chemistry,Russia,Male,60
+1977,Chemistry,Russia,Male,60
+1977,Economics,Sweden,Male,78
+1977,Economics,United Kingdom,Male,70
+1977,Literature,Spain,Male,79
+1977,Medicine,France,Male,53
+1977,Medicine,Lithuania,Male,51
+1977,Medicine,United States of America,Female,56
+1977,Physics,United States of America,Male,54
+1977,Physics,United Kingdom,Male,72
+1977,Physics,United States of America,Male,78
+1978,Chemistry,United Kingdom,Male,58
+1978,Economics,United States of America,Male,62
+1978,Literature,Poland,Male,74
+1978,Medicine,Switzerland,Male,49
+1978,Medicine,United States of America,Male,50
+1978,Medicine,United States of America,Male,47
+1978,Peace,Egypt,Male,60
+1978,Peace,Belarus,Male,65
+1978,Physics,Russia,Male,84
+1978,Physics,Germany,Male,45
+1978,Physics,United States of America,Male,42
+1979,Chemistry,United Kingdom,Male,67
+1979,Chemistry,Germany,Male,82
+1979,Economics,United States of America,Male,77
+1979,Economics,Saint Lucia,Male,64
+1979,Literature,Greece,Male,68
+1979,Medicine,South Africa,Male,55
+1979,Medicine,United Kingdom,Male,60
+1979,Physics,United States of America,Male,47
+1979,Physics,Pakistan,Male,53
+1979,Physics,Pakistan,Male,53
+1979,Physics,United States of America,Male,46
+1980,Chemistry,United Kingdom,Male,62
+1980,Chemistry,United States of America,Male,54
+1980,Chemistry,United States of America,Male,48
+1980,Economics,United States of America,Male,60
+1980,Literature,Lithuania,Male,69
+1980,Medicine,Venezuela,Male,60
+1980,Medicine,France,Male,64
+1980,Medicine,United States of America,Male,77
+1980,Peace,Argentina,Male,49
+1980,Physics,United States of America,Male,49
+1980,Physics,United States of America,Male,57
+1981,Chemistry,Japan,Male,63
+1981,Chemistry,Ukraine,Male,44
+1981,Economics,United States of America,Male,63
+1981,Literature,Bulgaria,Male,76
+1981,Medicine,United States of America,Male,68
+1981,Medicine,Canada,Male,55
+1981,Medicine,Sweden,Male,57
+1981,Physics,Netherlands,Male,61
+1981,Physics,United States of America,Male,60
+1981,Physics,Sweden,Male,63
+1982,Chemistry,Lithuania,Male,56
+1982,Economics,United States of America,Male,71
+1982,Literature,Colombia,Male,55
+1982,Medicine,Sweden,Male,66
+1982,Medicine,Sweden,Male,48
+1982,Medicine,United Kingdom,Male,55
+1982,Peace,Sweden,Female,80
+1982,Peace,Mexico,Male,71
+1982,Physics,United States of America,Male,46
+1983,Chemistry,Canada,Male,68
+1983,Economics,France,Male,62
+1983,Literature,United Kingdom,Male,72
+1983,Medicine,United States of America,Female,81
+1983,Peace,Poland,Male,40
+1983,Physics,Pakistan,Male,73
+1983,Physics,United States of America,Male,72
+1984,Chemistry,United States of America,Male,63
+1984,Economics,United Kingdom,Male,71
+1984,Literature,Czech Republic,Male,83
+1984,Medicine,United Kingdom,Male,73
+1984,Medicine,Germany,Male,38
+1984,Medicine,Argentina,Male,57
+1984,Peace,South Africa,Male,53
+1984,Physics,Italy,Male,50
+1984,Physics,Netherlands,Male,59
+1985,Chemistry,United States of America,Male,68
+1985,Chemistry,United States of America,Male,67
+1985,Economics,Italy,Male,67
+1985,Literature,Madagascar,Male,72
+1985,Medicine,United States of America,Male,44
+1985,Medicine,United States of America,Male,45
+1985,Physics,Poland,Male,42
+1986,Chemistry,United States of America,Male,54
+1986,Chemistry,Taiwan,Male,50
+1986,Chemistry,Germany,Male,57
+1986,Economics,United States of America,Male,67
+1986,Literature,Nigeria,Male,52
+1986,Medicine,United States of America,Male,64
+1986,Medicine,Italy,Female,77
+1986,Peace,Romania,Male,58
+1986,Physics,Germany,Male,80
+1986,Physics,Germany,Male,39
+1986,Physics,Switzerland,Male,53
+1987,Chemistry,United States of America,Male,68
+1987,Chemistry,France,Male,48
+1987,Chemistry,France,Male,48
+1987,Chemistry,South Korea,Male,83
+1987,Economics,United States of America,Male,63
+1987,Literature,Russia,Male,47
+1987,Medicine,Japan,Male,48
+1987,Peace,Costa Rica,Male,46
+1987,Physics,Germany,Male,37
+1987,Physics,Switzerland,Male,60
+1988,Chemistry,Germany,Male,45
+1988,Chemistry,Germany,Male,45
+1988,Chemistry,Germany,Male,51
+1988,Chemistry,Germany,Male,40
+1988,Economics,France,Male,77
+1988,Literature,Egypt,Male,77
+1988,Medicine,Scotland,Male,64
+1988,Medicine,United States of America,Female,70
+1988,Medicine,United States of America,Male,83
+1988,Physics,United States of America,Male,66
+1988,Physics,United States of America,Male,56
+1988,Physics,Germany,Male,67
+1989,Chemistry,Canada,Male,50
+1989,Chemistry,United States of America,Male,42
+1989,Economics,Norway,Male,78
+1989,Literature,Spain,Male,73
+1989,Medicine,United States of America,Male,53
+1989,Medicine,United States of America,Male,50
+1989,Physics,United States of America,Male,74
+1989,Physics,Germany,Male,67
+1989,Physics,Germany,Male,76
+1990,Chemistry,United States of America,Male,62
+1990,Economics,United States of America,Male,63
+1990,Economics,United States of America,Male,67
+1990,Economics,United States of America,Male,56
+1990,Literature,Mexico,Male,76
+1990,Medicine,United States of America,Male,71
+1990,Medicine,United States of America,Male,70
+1990,Peace,Russia,Male,59
+1990,Physics,United States of America,Male,60
+1990,Physics,United States of America,Male,64
+1990,Physics,Canada,Male,61
+1991,Chemistry,Switzerland,Male,58
+1991,Economics,United Kingdom,Male,81
+1991,Literature,South Africa,Female,68
+1991,Medicine,Germany,Male,47
+1991,Medicine,Germany,Male,49
+1991,Physics,France,Male,59
+1992,Chemistry,Canada,Male,69
+1992,Economics,United States of America,Male,62
+1992,Literature,Saint Lucia,Male,62
+1992,Medicine,China,Male,72
+1992,Medicine,United States of America,Male,74
+1992,Peace,Guatemala,Female,33
+1992,Physics,Poland,Male,68
+1992,Physics,Poland,Male,68
+1993,Chemistry,United States of America,Male,48
+1993,Chemistry,United Kingdom,Male,61
+1993,Economics,United States of America,Male,66
+1993,Economics,United States of America,Male,73
+1993,Literature,United States of America,Female,62
+1993,Medicine,United Kingdom,Male,50
+1993,Medicine,United States of America,Male,49
+1993,Peace,South Africa,Male,75
+1993,Peace,South Africa,Male,57
+1993,Physics,United States of America,Male,43
+1993,Physics,United States of America,Male,52
+1994,Chemistry,Hungary,Male,67
+1994,Economics,Hungary,Male,74
+1994,Economics,United States of America,Male,66
+1994,Economics,Poland,Male,64
+1994,Literature,Japan,Male,59
+1994,Medicine,United States of America,Male,53
+1994,Medicine,United States of America,Male,69
+1994,Peace,Egypt,Male,65
+1994,Peace,Belarus,Male,71
+1994,Peace,Israel,Male,72
+1994,Physics,Canada,Male,76
+1994,Physics,United States of America,Male,79
+1995,Chemistry,Netherlands,Male,62
+1995,Chemistry,Mexico,Male,52
+1995,Chemistry,United States of America,Male,68
+1995,Economics,United States of America,Male,58
+1995,Literature,Northern Ireland,Male,56
+1995,Medicine,United States of America,Male,77
+1995,Medicine,Germany,Female,53
+1995,Medicine,United States of America,Male,48
+1995,Peace,Poland,Male,87
+1995,Physics,United States of America,Male,68
+1995,Physics,United States of America,Male,77
+1996,Chemistry,United States of America,Male,63
+1996,Chemistry,United Kingdom,Male,57
+1996,Chemistry,United States of America,Male,53
+1996,Economics,Scotland,Male,60
+1996,Economics,Canada,Male,82
+1996,Literature,Poland,Female,73
+1996,Medicine,Australia,Male,56
+1996,Medicine,Switzerland,Male,52
+1996,Peace,East Timor,Male,48
+1996,Peace,East Timor,Male,46
+1996,Physics,United States of America,Male,65
+1996,Physics,United States of America,Male,51
+1996,Physics,United States of America,Male,59
+1997,Chemistry,United States of America,Male,79
+1997,Chemistry,United Kingdom,Male,56
+1997,Chemistry,Denmark,Male,79
+1997,Economics,United States of America,Male,53
+1997,Economics,Canada,Male,56
+1997,Literature,Italy,Male,71
+1997,Medicine,United States of America,Male,55
+1997,Peace,United States of America,Female,47
+1997,Physics,United States of America,Male,49
+1997,Physics,Algeria,Male,64
+1997,Physics,Algeria,Male,64
+1997,Physics,United States of America,Male,49
+1998,Chemistry,Austria,Male,75
+1998,Chemistry,United Kingdom,Male,73
+1998,Economics,India,Male,65
+1998,Literature,Portugal,Male,76
+1998,Medicine,United States of America,Male,82
+1998,Medicine,United States of America,Male,57
+1998,Medicine,United States of America,Male,62
+1998,Peace,Northern Ireland,Male,61
+1998,Peace,Northern Ireland,Male,54
+1998,Physics,United States of America,Male,48
+1998,Physics,Germany,Male,49
+1998,Physics,China,Male,59
+1999,Chemistry,Egypt,Male,53
+1999,Economics,Canada,Male,67
+1999,Literature,Poland,Male,72
+1999,Medicine,Poland,Male,63
+1999,Medicine,Poland,Male,63
+1999,Physics,Netherlands,Male,53
+1999,Physics,Netherlands,Male,68
+2000,Chemistry,United States of America,Male,64
+2000,Chemistry,New Zealand,Male,73
+2000,Chemistry,Japan,Male,64
+2000,Economics,United States of America,Male,56
+2000,Economics,United States of America,Male,63
+2000,Literature,China,Male,60
+2000,Medicine,Sweden,Male,77
+2000,Medicine,United States of America,Male,75
+2000,Medicine,Austria,Male,71
+2000,Peace,South Korea,Male,75
+2000,Physics,Belarus,Male,70
+2000,Physics,Germany,Male,72
+2000,Physics,United States of America,Male,77
+2001,Chemistry,United States of America,Male,84
+2001,Chemistry,Japan,Male,63
+2001,Chemistry,United States of America,Male,60
+2001,Economics,United States of America,Male,61
+2001,Economics,United States of America,Male,58
+2001,Literature,Trinidad,Male,69
+2001,Medicine,United States of America,Male,62
+2001,Medicine,United Kingdom,Male,58
+2001,Medicine,United Kingdom,Male,52
+2001,Peace,Ghana,Male,63
+2001,Physics,United States of America,Male,40
+2001,Physics,Germany,Male,44
+2001,Physics,United States of America,Male,50
+2002,Chemistry,United States of America,Male,85
+2002,Chemistry,Japan,Male,43
+2002,Chemistry,Switzerland,Male,64
+2002,Chemistry,Switzerland,Male,64
+2002,Economics,Israel,Male,68
+2002,Economics,United States of America,Male,75
+2002,Literature,Hungary,Male,73
+2002,Medicine,South Africa,Male,75
+2002,Medicine,United States of America,Male,55
+2002,Medicine,United Kingdom,Male,60
+2002,Peace,United States of America,Male,78
+2002,Physics,United States of America,Male,88
+2002,Physics,Japan,Male,76
+2002,Physics,Italy,Male,71
+2003,Chemistry,United States of America,Male,54
+2003,Chemistry,United States of America,Male,47
+2003,Chemistry,United States of America,Male,47
+2003,Economics,United States of America,Male,61
+2003,Economics,United Kingdom,Male,69
+2003,Literature,South Africa,Male,63
+2003,Medicine,United States of America,Male,74
+2003,Medicine,United Kingdom,Male,70
+2003,Peace,Iran,Female,56
+2003,Physics,Russia,Male,75
+2003,Physics,Russia,Male,87
+2003,Physics,United Kingdom,Male,65
+2004,Chemistry,Israel,Male,57
+2004,Chemistry,Hungary,Male,66
+2004,Chemistry,United States of America,Male,78
+2004,Economics,Norway,Male,61
+2004,Economics,Norway,Male,61
+2004,Economics,United States of America,Male,64
+2004,Economics,United States of America,Male,64
+2004,Literature,Austria,Female,58
+2004,Medicine,United States of America,Male,58
+2004,Medicine,United States of America,Female,57
+2004,Peace,Kenya,Female,64
+2004,Physics,United States of America,Male,63
+2004,Physics,United States of America,Male,55
+2004,Physics,United States of America,Male,53
+2005,Chemistry,Belgium,Male,75
+2005,Chemistry,United States of America,Male,63
+2005,Chemistry,United States of America,Male,60
+2005,Economics,Germany,Male,75
+2005,Economics,United States of America,Male,84
+2005,Literature,United Kingdom,Male,75
+2005,Medicine,Australia,Male,54
+2005,Medicine,Australia,Male,54
+2005,Medicine,Australia,Male,68
+2005,Peace,Egypt,Male,63
+2005,Physics,United States of America,Male,80
+2005,Physics,United States of America,Male,71
+2005,Physics,United States of America,Male,71
+2005,Physics,Germany,Male,64
+2005,Physics,Germany,Male,64
+2006,Chemistry,United States of America,Male,59
+2006,Economics,United States of America,Male,73
+2006,Literature,Turkey,Male,54
+2006,Medicine,United States of America,Male,47
+2006,Medicine,United States of America,Male,46
+2006,Peace,Bangladesh,Male,66
+2006,Physics,United States of America,Male,60
+2006,Physics,United States of America,Male,61
+2007,Chemistry,Germany,Male,71
+2007,Economics,Russia,Male,90
+2007,Economics,United States of America,Male,57
+2007,Economics,United States of America,Male,56
+2007,Literature,Iran,Female,88
+2007,Medicine,Italy,Male,70
+2007,Medicine,Italy,Male,70
+2007,Medicine,United Kingdom,Male,66
+2007,Medicine,United Kingdom,Male,82
+2007,Peace,United States of America,Male,59
+2007,Physics,France,Male,69
+2007,Physics,France,Male,69
+2007,Physics,Czech Republic,Male,68
+2008,Chemistry,Japan,Male,80
+2008,Chemistry,Japan,Male,80
+2008,Chemistry,United States of America,Male,61
+2008,Chemistry,United States of America,Male,56
+2008,Chemistry,United States of America,Male,56
+2008,Economics,United States of America,Male,55
+2008,Literature,France,Male,68
+2008,Medicine,Germany,Male,72
+2008,Medicine,France,Female,61
+2008,Medicine,France,Male,76
+2008,Peace,Finland,Male,71
+2008,Physics,Japan,Male,87
+2008,Physics,Japan,Male,64
+2008,Physics,Japan,Male,68
+2008,Physics,Japan,Male,68
+2009,Chemistry,United States of America,Male,69
+2009,Chemistry,United States of America,Male,69
+2009,Chemistry,Israel,Female,70
+2009,Economics,United States of America,Female,76
+2009,Economics,United States of America,Female,76
+2009,Economics,United States of America,Male,77
+2009,Literature,Romania,Female,56
+2009,Medicine,Australia,Female,61
+2009,Medicine,United States of America,Female,48
+2009,Medicine,United Kingdom,Male,57
+2009,Medicine,United Kingdom,Male,57
+2009,Medicine,United Kingdom,Male,57
+2009,Peace,United States of America,Male,48
+2009,Physics,China,Male,76
+2009,Physics,China,Male,76
+2009,Physics,Canada,Male,85
+2009,Physics,United States of America,Male,79
+2010,Chemistry,United States of America,Male,79
+2010,Chemistry,China,Male,75
+2010,Chemistry,Japan,Male,80
+2010,Economics,United States of America,Male,70
+2010,Economics,United States of America,Male,71
+2010,Economics,United States of America,Male,71
+2010,Economics,Cyprus,Male,62
+2010,Literature,Peru,Male,74
+2010,Medicine,United Kingdom,Male,85
+2010,Peace,China,Male,54
+2010,Physics,Russia,Male,52
+2010,Physics,Russia,Male,36
+2011,Chemistry,Israel,Male,70
+2011,Economics,United States of America,Male,68
+2011,Economics,United States of America,Male,69
+2011,Literature,Sweden,Male,80
+2011,Medicine,United States of America,Male,53
+2011,Medicine,United States of America,Male,53
+2011,Medicine,Luxembourg,Male,70
+2011,Medicine,Canada,Male,68
+2011,Peace,Liberia,Female,73
+2011,Peace,Liberia,Female,39
+2011,Peace,Yemen,Female,32
+2011,Physics,United States of America,Male,44
+2011,Physics,United States of America,Male,42
+2011,Physics,United States of America,Male,42
+2012,Chemistry,United States of America,Male,69
+2012,Chemistry,United States of America,Male,69
+2012,Chemistry,United States of America,Male,57
+2012,Economics,United States of America,Male,61
+2012,Economics,United States of America,Male,61
+2012,Economics,United States of America,Male,89
+2012,Literature,China,Male,57
+2012,Medicine,United Kingdom,Male,79
+2012,Medicine,Japan,Male,50
+2012,Medicine,Japan,Male,50
+2012,Physics,Morocco,Male,68
+2012,Physics,Morocco,Male,68
+2012,Physics,United States of America,Male,68
+2012,Physics,United States of America,Male,68
+2013,Chemistry,Austria,Male,83
+2013,Chemistry,Austria,Male,83
+2013,Chemistry,South Africa,Male,66
+2013,Chemistry,Israel,Male,73
+2013,Economics,United States of America,Male,74
+2013,Economics,United States of America,Male,61
+2013,Economics,United States of America,Male,67
+2013,Literature,Canada,Female,82
+2013,Medicine,United States of America,Male,63
+2013,Medicine,United States of America,Male,64
+2013,Medicine,United States of America,Male,64
+2013,Medicine,Germany,Male,58
+2013,Medicine,Germany,Male,58
+2013,Physics,Belgium,Male,81
+2013,Physics,United Kingdom,Male,84
+2014,Chemistry,United States of America,Male,54
+2014,Chemistry,Romania,Male,52
+2014,Chemistry,Romania,Male,52
+2014,Chemistry,United States of America,Male,61
+2014,Economics,France,Male,61
+2014,Literature,France,Male,69
+2014,Medicine,United States of America,Male,75
+2014,Medicine,Norway,Female,51
+2014,Medicine,Norway,Male,52
+2014,Peace,India,Male,60
+2014,Peace,Pakistan,Female,17
+2014,Physics,Japan,Male,85
+2014,Physics,Japan,Male,85
+2014,Physics,Japan,Male,54
+2014,Physics,Japan,Male,60
+2015,Chemistry,Sweden,Male,77
+2015,Chemistry,Sweden,Male,77
+2015,Chemistry,United States of America,Male,69
+2015,Chemistry,United States of America,Male,69
+2015,Chemistry,Turkey,Male,69
+2015,Economics,United Kingdom,Male,70
+2015,Literature,Ukraine,Female,67
+2015,Medicine,Ireland,Male,85
+2015,Medicine,Japan,Male,80
+2015,Medicine,China,Female,85
+2015,Physics,Japan,Male,56
+2015,Physics,Canada,Male,72
+2016,Chemistry,France,Male,72
+2016,Chemistry,United Kingdom,Male,74
+2016,Chemistry,Netherlands,Male,65
+2016,Economics,United Kingdom,Male,68
+2016,Economics,Finland,Male,67
+2016,Literature,United States of America,Male,75
+2016,Medicine,Japan,Male,71
+2016,Peace,Colombia,Male,65
+2016,Physics,United Kingdom,Male,82
+2016,Physics,United Kingdom,Male,65
+2016,Physics,United Kingdom,Male,73
