@@ -1,0 +1,501 @@
+company,rank,revenues,revenue_change,profits,assets,profit_change,sector,country,years_on_global_500_list,employees,total_stockholder_equity
+Walmart,1,485873,0.8,13643,198825,-7.2,Retailing,USA,23,2300000,77798
+State Grid,2,315199,-4.4,9571.3,489838,-6.2,Energy,China,17,926067,209456
+Sinopec Group,3,267518,-9.1,1257.9,310726,-65,Energy,China,19,713288,106523
+China National Petroleum,4,262573,-12.3,1867.5,585619,-73.7,Energy,China,17,1512048,301893
+Toyota Motor,5,254694,7.7,16899.3,437575,-12.3,Motor Vehicles & Parts,Japan,23,364445,157210
+Volkswagen,6,240264,1.5,5937.3,432116,,Motor Vehicles & Parts,Germany,23,626715,97753
+Royal Dutch Shell,7,240033,-11.8,4575,411275,135.9,Energy,Netherlands,23,89000,186646
+Berkshire Hathaway,8,223604,6.1,24074,620854,,Financials,USA,21,367700,283001
+Apple,9,215639,-7.7,45687,321686,-14.4,Technology,USA,15,116000,128249
+Exxon Mobil,10,205004,-16.7,7840,330314,-51.5,Energy,USA,23,72700,167325
+McKesson,11,198533,3.1,5070,60969,124.5,Wholesalers,USA,23,64500,11095
+BP,12,186606,-17.4,115,263316,,Energy,Britain,23,74500,95286
+UnitedHealth Group,13,184840,17.7,7017,122810,20.7,Health Care,USA,21,230000,38274
+CVS Health,14,177526,15.8,5317,94462,1.5,Health Care,USA,22,204000,36830
+Samsung Electronics,15,173957,-2,19316.5,217104,16.8,Technology,South Korea,23,325000,154376
+Glencore,16,173883,2,1379,124600,,Energy,Switzerland,7,93123,44243
+Daimler,17,169483,2.2,9428.4,256262,0.9,Motor Vehicles & Parts,Germany,23,282488,61116
+General Motors,18,166380,9.2,9427,221690,-2.7,Motor Vehicles & Parts,USA,23,225000,43836
+AT&T,19,163786,11.6,12976,403821,-2.8,Telecommunications,USA,23,268540,123135
+EXOR Group,20,154894,1.5,651.3,186172,-21.1,Financials,Netherlands,7,302562,11582
+Ford Motor,21,151800,1.5,4596,237951,-37.7,Motor Vehicles & Parts,USA,23,201000,29170
+Industrial & Commercial Bank of China,22,147675,-11.7,41883.9,3473238,-5,Financials,China,19,461749,283438
+AmerisourceBergen,23,146850,8,1427.9,33656,,Wholesalers,USA,18,18500,2129
+China State Construction Engineering,24,144505,3.1,2492.9,201269,10.7,Engineering & Construction,China,6,263915,15344
+AXA,25,143722,11.2,6446,941556,3.5,Financials,France,23,97707,74454
+Amazon.com,26,135987,27.1,2371,83402,297.8,Technology,USA,9,341400,19285
+Hon Hai Precision Industry,27,135129,-4.3,4608.8,80436,-0.4,Technology,Taiwan,13,726772,33476
+China Construction Bank,28,135093,-8.7,34840.9,3016578,-4,Financials,China,18,362482,226851
+Honda Motor,29,129198,6.2,5690.3,170165,98.3,Motor Vehicles & Parts,Japan,23,211915,65482
+Total,30,127925,-10.8,6196,230978,21.8,Energy,France,23,102168,98680
+General Electric,31,126661,-9.8,8831,365183,,Industrials,USA,23,295000,75828
+Verizon,32,125980,-4.3,13127,244180,-26.6,Telecommunications,USA,23,160900,22524
+Japan Post Holdings,33,122990,3.6,-267.4,2631385,-107.5,Financials,Japan,21,248384,91532
+Allianz,34,122196,-0.6,7611.5,932091,3.7,Financials,Germany,23,140253,71020
+Cardinal Health,35,121546,18.5,1427,34122,17.4,Wholesalers,USA,20,37300,6554
+Costco,36,118719,2.2,2350,33163,-1.1,Retailing,USA,23,172000,12079
+Walgreens Boots Alliance,37,117351,13.4,4173,72688,-1.1,Food & Drug Stores,USA,23,300000,29880
+Agricultural Bank of China,38,117275,-12.1,27687.8,2816039,-3.6,Financials,China,18,501368,189682
+Ping An Insurance,39,116581,5.7,9392,802490,8.9,Financials,China,8,318588,55177
+Kroger,40,115337,5,1975,36505,-3.1,Food & Drug Stores,USA,23,443000,6698
+SAIC Motor,41,113861,6.7,4818.2,84989,1.6,Motor Vehicles & Parts,China,6,97582,27617
+Bank of China,42,113708,-7.1,24773.4,2611539,-8.9,Financials,China,23,308900,203134
+BNP Paribas,43,109026,-2.2,8517.2,2190423,14.7,Financials,France,23,184839,106164
+Nissan Motor,44,108164,6.5,6123.4,165344,40.3,Motor Vehicles & Parts,Japan,23,137250,50550
+Chevron,45,107567,-18,-497,260078,-110.8,Energy,USA,23,55200,145556
+Fannie Mae,46,107162,-2.9,12313,3287968,12.4,Financials,USA,20,7000,6071
+China Mobile Communications,47,107117,0.3,9614.3,246446,-5.2,Telecommunications,China,17,463712,130459
+J.P. Morgan Chase,48,105486,4.4,24733,2490972,1.2,Financials,USA,23,243355,254190
+Legal & General Group,49,105235,442.3,1697.9,577954,3.4,Financials,Britain,17,8939,8579
+Nippon Telegraph & Telephone,50,105128,9.4,7384.4,190740,20.2,Telecommunications,Japan,23,274844,81254
+China Life Insurance,51,104818,3.5,162.4,483026,-96.1,Financials,China,15,143676,14079
+BMW Group,52,104130,1.8,7589.4,198835,7.4,Motor Vehicles & Parts,Germany,23,124729,49682
+Express Scripts Holding,53,100288,-1.4,3404.4,51745,37.5,Health Care,USA,15,25600,16236
+Trafigura Group,54,98098,0.9,750.8,41230,-39.3,Wholesalers,Singapore,3,4107,5548
+China Railway Engineering,55,96979,-2.5,924.1,108864,-6,Engineering & Construction,China,3,292215,10806
+Prudential,56,96965,53.7,2592.8,581221,-34.2,Financials,Britain,22,23673,18117
+Assicurazioni Generali,57,95217,-7.2,2301.3,549656,2.2,Financials,Italy,23,73727,25886
+China Railway Construction,58,94877,-0.8,1192.4,109968,7.8,Engineering & Construction,China,6,336872,10146
+Home Depot,59,94595,6.9,7957,42966,13.5,Retailing,USA,23,406000,4333
+Boeing,60,94571,-1.6,4895,89997,-5.4,Aerospace & Defense,USA,23,150540,817
+Wells Fargo,61,94176,4.6,21938,1930115,-4.2,Financials,USA,20,269100,199581
+Bank of America Corp.,62,93662,0.7,17906,2187702,12.7,Financials,USA,23,208024,266840
+Gazprom,63,91382,-8.1,14222.6,277262,10.4,Energy,Russia,21,467400,181813
+Nestle,64,90814,-1.6,8659.2,129824,-8.1,"Food, Beverages & Tobacco",Switzerland,23,328000,63573
+Alphabet,65,90272,20.4,19478,167497,19.1,Technology,USA,9,72053,139036
+Siemens,66,88419,0.9,6050.5,141271,-27.4,Industrials,Germany,23,351000,38444
+Carrefour,67,87112,-0.4,825,51513,-24.1,Food & Drug Stores,France,23,384151,10996
+Dongfeng Motor,68,86194,4.1,1415,59532,-4.4,Motor Vehicles & Parts,China,8,189795,11464
+Microsoft,69,85320,-8.8,16798,193694,37.8,Technology,USA,20,114000,71997
+Anthem,70,84863,7.2,2469.8,65083,-3.5,Health Care,USA,16,53000,25100
+Hitachi,71,84558,1.2,2134.3,86742,48.8,Technology,Japan,23,303887,26632
+SoftBank Group,72,82892,8.4,13163.4,221113,233.3,Telecommunications,Japan,10,68402,32191
+Banco Santander,73,82801,-2.5,6860.7,1412281,3.7,Financials,Spain,23,185606,95906
+Citigroup,74,82386,-6.7,14912,1792077,-13.5,Financials,USA,23,219000,225120
+Petrobras,75,81405,-16.3,-4838,246983,,Energy,Brazil,23,68829,76779
+Robert Bosch,76,80869,3.3,2155.3,86348,-39.1,Motor Vehicles & Parts,Germany,23,389281,36316
+Deutsche Telekom,77,80832,5.3,2958.1,156597,-18,Telecommunications,Germany,23,221000,30906
+Hyundai Motor,78,80701,-0.8,4659,148092,-17.9,Motor Vehicles & Parts,South Korea,22,129315,55639
+Comcast,79,80403,7.9,8695,180500,6.5,Telecommunications,USA,15,159000,53943
+Credit Agricole,80,80258,-4.6,3914.7,1607501,0.4,Financials,France,23,70830,61460
+IBM,81,79919,-3.1,11872,117470,-10,Technology,USA,23,414400,18246
+Electricite de France,82,78740,-5.4,3152.8,297026,139.4,Energy,France,23,154808,36319
+Huawei Investment & Holding,83,78511,24.9,5579.4,63837,-5,Technology,China,8,180000,20159
+Enel,84,78064,-7,2842,164096,16.7,Energy,Italy,23,62080,36704
+State Farm Insurance Cos.,85,76132,0.6,350.3,256030,-94.4,Financials,USA,23,68234,87592
+China Resources National,86,75776,-1,2580.2,158291,3.7,Health Care,China,8,420572,23605
+AEON,87,75772,11.8,103.9,78223,108.6,Retailing,Japan,23,274760,9567
+HSBC Holdings,88,75329,-15.4,2479,2374986,-81.7,Financials,Britain,23,241000,175386
+Pacific Construction Group,89,74629,2.2,3168.1,48196,-1.2,Engineering & Construction,China,4,362128,19835
+Aviva,90,74628,105.9,948.8,544063,-32.3,Financials,Britain,23,29530,21004
+Uniper,91,74407,,-3557.5,51541,,Energy,Germany,1,12890,12889
+Tesco,92,74393,-15.1,-52.7,57052,-125.3,Food & Drug Stores,Britain,23,342770,8011
+Engie,93,73692,-4.9,-458.9,167158,,Energy,France,22,153090,41740
+Airbus Group,94,73628,3,1100.3,117204,-63.2,Aerospace & Defense,Netherlands,23,133782,3857
+SK Holdings,95,72579,107.4,659.7,85332,-86,Energy,South Korea,2,84000,10858
+Phillips 66,96,72396,-16.9,1555,51653,-63.2,Energy,USA,5,14800,22390
+Johnson & Johnson,97,71890,2.6,16540,141208,7.3,Health Care,USA,17,126400,70418
+Procter & Gamble,98,71726,-8.9,10508,127136,49.3,Household Products,USA,23,105000,57341
+U.S. Postal Service,99,71498,3.7,-5591,25219,,Transportation,USA,23,574349,-55982
+China Southern Power Grid,100,71242,-4.6,2329.8,99187,4.8,Energy,China,13,302421,38384
+China South Industries Group,101,71151,1.5,580.3,51857,-61,Aerospace & Defense,China,8,232817,7508
+Lukoil,102,70897,-16.3,3090.6,82179,-35.1,Energy,Russia,18,105500,52783
+China Communications Construction,103,70751,4.4,1431.3,146763,-16.2,Engineering & Construction,China,10,152666,14824
+Groupe BPCE,104,70517,25.5,4410.1,1302721,22.6,Financials,France,8,102827,64820
+Sony,105,70170,3.9,676.4,158519,-45.1,Technology,Japan,23,128400,22415
+Valero Energy,106,70166,-14.2,2289,46173,-42.6,Energy,USA,17,9996,20024
+Target,107,69495,-5.8,2737,37431,-18.6,Retailing,USA,23,323000,10953
+Societe Generale,108,69335,-1.1,4284,1457753,-3.5,Financials,France,21,151341,65338
+Munich Re Group,109,68700,-1.1,2853.1,282435,-17.2,Financials,Germany,23,43428,33238
+Panasonic,110,67775,6.7,1378.4,53702,0.2,Technology,Japan,23,257533,14109
+Nippon Life Insurance,111,67388,0.4,2786.9,650429,-17.1,Financials,Japan,23,85171,17261
+Zurich Insurance Group,112,67245,11,3211,382679,74.3,Financials,Switzerland,23,52473,30660
+Itau Unibanco Holding,113,66876,21.4,6666.4,415972,-13.7,Financials,Brazil,4,94779,37680
+People’s Insurance Co. of China,114,66732,3.3,2144.3,134132,-31,Financials,China,8,188570,18145
+China National Offshore Oil,115,65892,-2.8,1752.4,166595,-62,Energy,China,11,100821,70827
+Marubeni,116,65792,8.2,1433.7,61904,176.4,Wholesalers,Japan,23,39952,15113
+Deutsche Post DHL Group,117,65787,-3.8,2918.3,40387,70.8,Transportation,Germany,23,459262,11693
+Freddie Mac,118,65665,3.4,7815,2023376,22.6,Financials,USA,21,5982,5075
+China Post Group,119,65605,-5.8,4980.3,1221649,18.7,Transportation,China,7,941211,43114
+China Minmetals,120,65547,105.6,-446.7,109334,,Materials,China,11,212406,4631
+Lloyds Banking Group,121,65208,38.2,2784.4,1010245,111.9,Financials,Britain,23,70433,59327
+Lowe’s,122,65017,10.1,3093,34408,21.5,Retailing,USA,20,240000,6434
+Metro,123,64853,-9,665,28039,-13.6,Food & Drug Stores,Germany,22,196540,5978
+Dell Technologies,124,64806,18.1,-1672,118206,,Technology,USA,17,138000,13243
+China FAW Group,125,64784,3.1,2411.3,54772,-25.9,Motor Vehicles & Parts,China,13,122323,24489
+BASF,126,63641,-18.6,4485.3,80675,1.4,Chemicals,Germany,23,109543,33545
+JXTG Holdings,127,63629,1.8,1477.3,59767,,Energy,Japan,23,26247,12829
+MetLife,128,63476,-9.3,800,898764,-84.9,Financials,USA,23,58000,67309
+Tewoo Group,129,63324,-1.4,141.7,34713,-11.6,Wholesalers,China,6,17353,3465
+Aetna,130,63155,4.7,2271,69146,-5,Health Care,USA,17,49500,17881
+PepsiCo,131,62799,-0.4,6329,74129,16.1,"Food, Beverages & Tobacco",USA,23,264000,11095
+ENI,132,62694,-32.6,-1619,131349,,Energy,Italy,23,33536,55934
+China Telecommunications,133,62387,1,1764.6,115819,2.9,Telecommunications,China,18,413536,50919
+Archer Daniels Midland,134,62346,-7.9,1279,39769,-30.8,"Food, Beverages & Tobacco",USA,23,31800,17173
+China North Industries Group,135,61326,-0.5,853,53140,6.2,Aerospace & Defense,China,8,234771,13401
+COFCO,136,61265,-5,204.5,72072,-23,Wholesalers,China,23,101708,11029
+Beijing Automotive Group,137,61130,11.3,1260.6,57783,14.9,Motor Vehicles & Parts,China,5,134765,8037
+UPS,138,60906,4.4,3431,40377,-29.2,Transportation,USA,23,335520,405
+Anbang Insurance Group,139,60800,124,3883.9,430040,0.9,Financials,China,1,40707,20372
+Peugeot,140,59749,-1.5,1913.1,47620,91.8,Motor Vehicles & Parts,France,23,175341,13348
+Albertsons Cos.,141,59678,1.6,-373.3,23755,,Food & Drug Stores,USA,13,273000,1371
+Dai-ichi Life Holdings,142,59590,-2.5,2134.5,466617,43.5,Financials,Japan,23,62606,11675
+Sinochem Group,143,59533,-1.9,468,57484,,Wholesalers,China,22,60576,9195
+Intel,144,59387,7.3,10316,113327,-9.7,Technology,USA,23,106000,66226
+Mitsubishi,145,59303,2.8,4063.5,141402,,Wholesalers,Japan,23,77164,44137
+Auchan Holding,146,58862,-2.2,652.4,38537,13.5,Food & Drug Stores,France,21,342709,10593
+Aegon,147,58789,50.5,483.3,448666,-38.7,Financials,Netherlands,22,29380,25647
+Prudential Financial,148,58779,2.9,4368,783962,-22.6,Financials,USA,23,49739,45863
+Vodafone Group,149,58611,-5,-6904,165420,,Telecommunications,Britain,18,111556,77211
+Unilever,150,58292,-1.4,5732.7,59512,5.3,Household Products,Britain,23,168832,17247
+Banco do Brasil,151,58093,-13.4,2013.8,426416,-52.3,Financials,Brazil,23,100622,26551
+Pemex,152,57774,-21.4,-10256.3,113115,,Energy,Mexico,23,125689,-59909
+Telefonica,153,57544,-5.5,2619.7,130396,283.4,Telecommunications,Spain,23,127323,19149
+Banco Bradesco,154,57443,31.3,5127.9,366418,-5.7,Financials,Brazil,21,94541,32369
+United Technologies,155,57244,-6.2,5055,89706,-33.6,Aerospace & Defense,USA,23,201600,27579
+ArcelorMittal,156,56791,-10.7,1779,75142,,Materials,Luxembourg,13,198517,30135
+Renault,157,56667,12.7,3780.9,107681,20.7,Motor Vehicles & Parts,France,23,124849,32423
+Rosneft Oil,158,56553,-12.7,2705.1,180756,-53.4,Energy,Russia,12,295800,54227
+Shandong Weiqiao Pioneering Group,159,56174,5.9,1217.2,31641,8.6,Industrials,China,6,135393,9438
+Marathon Petroleum,160,55858,-13.5,1174,44413,-58.8,Energy,USA,6,44460,13557
+Disney,161,55632,6,9391,92033,12,Media,USA,23,195000,43265
+Aviation Industry Corp. of China,162,55306,-8.2,464.2,124892,-47.4,Aerospace & Defense,China,9,457097,24345
+ING Group,163,55282,-16.5,5501.6,888226,0.7,Financials,Netherlands,23,51943,49839
+Mitsubishi UFJ Financial Group,164,55185,15.9,8550.1,2722354,7.9,Financials,Japan,16,115276,110573
+Royal Ahold Delhaize,165,54955,29.7,917.9,38257,-2.9,Food & Drug Stores,Netherlands,23,225000,17165
+Humana,166,54379,0.2,614,25396,-51.9,Health Care,USA,19,51600,10685
+Seven & I Holdings,167,53858,7.5,892.9,49244,-33,Food & Drug Stores,Japan,12,54712,20086
+Indian Oil,168,53562,-2.1,2960,42132,72.7,Energy,India,23,34999,15724
+Roche Group,169,53427,2,9719.9,75609,5.5,Health Care,Switzerland,23,94052,23534
+HNA Group,170,53035,79.4,278.9,173095,18.7,Transportation,China,3,220258,14096
+Bank of Communications,171,52990,-7.1,10116.9,1209176,-4.4,Financials,China,9,95160,90531
+CITIC Group,172,52852,-5.5,3236.3,938261,-14,Financials,China,9,201263,41784
+Pfizer,173,52824,8.1,7215,171615,3.7,Health Care,USA,23,96500,59544
+Bayer,174,52569,0.3,5010.6,86731,9.9,Health Care,Germany,23,115170,31990
+AIG,175,52367,-10.2,-849,498264,-138.7,Financials,USA,22,56400,76300
+America Movil,176,52201,-7.4,462.9,73555,-79,Telecommunications,Mexico,11,194193,10143
+Korea Electric Power,177,51500,-0.6,6074.1,147265,-48.3,Energy,South Korea,23,43688,59394
+Lockheed Martin,178,50658,9.8,5302,47806,47.1,Aerospace & Defense,USA,23,97000,1511
+Sysco,179,50367,3.5,949.6,16722,38.3,Wholesalers,USA,23,51900,3480
+FedEx,180,50365,6.1,1820,46064,73.3,Transportation,USA,23,335767,13784
+Hewlett Packard Enterprise,181,50123,,3161,79679,,Technology,USA,1,195000,31448
+Louis Dreyfus Company,182,49838,-10.6,305,19843,44.5,"Food, Beverages & Tobacco",Netherlands,4,17407,5115
+Amer International Group,183,49677,3.9,1199.9,18405,5.2,Technology,China,5,17852,10005
+Petronas,184,49479,-22,4092.9,134528,21.4,Energy,Malaysia,21,51034,84800
+Tokyo Electric Power,185,49446,-2.2,1225.7,110202,4.5,Energy,Japan,23,42060,20905
+Novartis,186,49436,-3.1,6712,130124,-62.3,Health Care,Switzerland,23,118393,74832
+Cisco Systems,187,49247,0.2,10739,121652,19.6,Technology,USA,18,73700,63586
+MS&AD Insurance Group Holdings,188,49239,17.9,1942.2,190596,28.5,Financials,Japan,19,40641,12793
+Deutsche Bank,189,48876,-6.8,-1550.4,1677437,,Financials,Germany,23,99744,63102
+PowerChina,190,48869,7.2,1057.6,86687,-9.6,Engineering & Construction,China,6,187813,9990
+JBS,191,48825,-0.1,107.7,31605,-92.3,"Food, Beverages & Tobacco",Brazil,8,237061,7307
+PTT,192,48719,-17.7,2681.6,62349,360.6,Energy,Thailand,14,24934,21309
+Tokio Marine Holdings,193,48292,26.6,2527.4,202923,19.2,Financials,Japan,23,38842,16474
+HP,194,48238,-53.3,2496,29010,-45.2,Technology,USA,23,49000,-3889
+RWE,195,48204,-6.6,-6249.1,80576,,Energy,Germany,23,58652,3898
+Dow Chemical,196,48158,-1.3,4318,79511,-43.8,Chemicals,USA,23,56000,25987
+Finatis,197,48154,-7.3,687.8,46270,,Food & Drug Stores,France,3,232503,744
+Wesfarmers,198,48003,-7.6,296.1,30358,-85.4,Food & Drug Stores,Australia,9,220000,17083
+Sinopharm,199,47810,7.9,504,36767,13.7,Health Care,China,5,106772,5658
+CNP Assurances,200,47804,-3,1327.3,442027,5.8,Financials,France,23,5035,18491
+LG Electronics,201,47712,-4.6,66.2,31348,-39.8,Technology,South Korea,17,75000,9926
+Sumitomo Mitsui Financial Group,202,47375,19.2,6520.5,1775349,21,Financials,Japan,23,77205,72876
+Reliance Industries,203,46931,8,4458.9,108856,5.6,Energy,India,14,140483,40614
+China Baowu Steel Group,204,46606,-11.5,442.8,106725,,Materials,China,14,169344,35728
+Noble Group,205,46528,-30.3,8.7,12285,,Wholesalers,China,10,1000,3974
+Anheuser-Busch InBev,206,45905,5.3,1241,258381,-85,"Food, Beverages & Tobacco",Belgium,12,206633,71339
+Statoil,207,45873,-23.4,-2902,104530,,Energy,Norway,23,20539,35072
+POSCO,208,45621,-11.8,1167.5,66361,669.8,Materials,South Korea,23,31768,35057
+Kia Motors,209,45425,3.7,2373.8,42141,2,Motor Vehicles & Parts,South Korea,6,51357,22010
+Orange,210,45249,1.3,3245.7,99840,10.3,Telecommunications,France,23,155202,32365
+ChemChina,211,45177,9.1,17.9,54341,,Chemicals,China,7,110614,3462
+Deutsche Bahn,212,44850,0.1,768.6,59716,,Transportation,Germany,23,306368,13246
+Continental,213,44842,3,3099.1,38151,2.4,Motor Vehicles & Parts,Germany,15,220137,15050
+HCA Holdings,214,44747,2.7,2890,33758,35.7,Health Care,USA,23,210500,-7302
+Itochu,215,44654,5.5,3250.6,72902,62.3,Wholesalers,Japan,23,110207,21559
+China Merchants Bank,216,44552,-8.1,9344.8,855070,1.8,Financials,China,6,70461,57896
+State Bank of India,217,44533,6.8,36,530590,-98.1,Financials,India,12,278872,33450
+Woolworths,218,43925,-13.2,-898.3,17495,-150.3,Food & Drug Stores,Australia,21,205000,6305
+KDDI,219,43822,17.8,5045.1,56223,22.5,Telecommunications,Japan,20,35032,31904
+Swiss Re,220,43786,22.6,3558,215065,-22.6,Financials,Switzerland,23,14053,35634
+HBIS Group,221,43769,-3.3,-146.8,51858,,Materials,China,9,125552,7693
+CEFC China Energy,222,43743,4.5,740.9,22578,22.8,Energy,China,4,29637,3916
+Banco Bilbao Vizcaya Argentaria,223,43698,1.7,3842.8,771837,31.1,Financials,Spain,23,134792,49952
+ThyssenKrupp,224,43589,-11,328.6,39411,-7.1,Materials,Germany,23,156487,2362
+Saint-Gobain,225,43231,-6.4,1449.8,46158,0.9,Materials,France,23,172696,19790
+Lenovo Group,226,43035,-4.2,535.1,27186,,Technology,China,8,52000,3224
+Vinci,227,42771,-1.9,2770.1,71642,22.1,Engineering & Construction,France,17,183487,17365
+Nippon Steel & Sumitomo Metal,228,42757,4.6,1208.5,65182,-0.2,Materials,Japan,23,100169,23555
+Bunge,229,42679,-1.8,745,19188,-5.8,"Food, Beverages & Tobacco",USA,15,32000,7144
+Industrial Bank,230,42622,-8.2,8105.9,875731,1.5,Financials,China,5,56236,50382
+E.ON,231,42213,-67.3,-9344.4,67179,,Energy,Germany,23,43138,-1113
+Sberbank,232,42159,-7.6,8078,415730,121,Financials,Russia,10,325075,46182
+China Shipbuilding Industry,233,42149,17,485.8,69621,-62.9,Industrials,China,7,182129,17789
+Christian Dior,234,42113,0.5,1740.3,69870,-38.7,Apparel,France,17,120479,12293
+Coca-Cola,235,41863,-5.5,6527,87270,-11.2,"Food, Beverages & Tobacco",USA,23,100300,23062
+Denso,236,41781,10.9,2377.6,46233,16.9,Motor Vehicles & Parts,Japan,23,154493,29735
+Fujitsu,237,41620,5.4,816.7,28646,13,Technology,Japan,23,155069,7910
+Guangzhou Automobile Industry Group,238,41560,20.7,551.9,30267,10.8,Motor Vehicles & Parts,China,5,75908,3791
+Wilmar International,239,41402,6.8,972.2,37032,-7.9,"Food, Beverages & Tobacco",Singapore,9,90000,14435
+Sanofi,240,41376,-0.2,5207.4,110390,9.5,Health Care,France,13,113816,60698
+China United Network Communications,241,41274,-6.4,23.2,88626,-95.8,Telecommunications,China,9,253724,11152
+Sumitomo Life Insurance,242,40921,31.6,517.5,308346,-6.1,Financials,Japan,23,42245,8491
+New York Life Insurance,243,40787,-11.1,1088.1,287196,324.1,Financials,USA,23,11320,20108
+Centene,244,40721,78.6,562,20197,58.3,Health Care,USA,2,30500,5895
+Shanghai Pudong Development Bank,245,40689,-3.2,7992.8,842832,-0.7,Financials,China,5,52832,52946
+Hanwha,246,40606,11,423.7,128247,,Financials,South Korea,12,49000,3650
+Tata Motors,247,40329,-4.2,1111.6,42162,-34,Motor Vehicles & Parts,India,8,79558,8942
+Aluminum Corp. of China,248,40278,6,-282.5,75089,,Materials,China,10,121146,2669
+Mitsui,249,40275,1.6,2825.3,103231,,Wholesalers,Japan,23,42316,33500
+Manulife Financial,250,40238,49.4,2209.7,537461,28.9,Financials,Canada,15,34500,31197
+China Minsheng Banking,251,40234,-5.2,7201.6,848389,-1.8,Financials,China,5,58720,49297
+China Pacific Insurance (Group),252,40193,2.2,1814.9,146873,-35.7,Financials,China,7,97032,18960
+American Airlines Group,253,40180,-2,2676,51274,-64.8,Transportation,USA,23,122300,3785
+Nationwide,254,40074,-0.4,334.3,197790,-42.4,Financials,USA,23,34320,15537
+Merck,255,39807,0.8,3920,95377,-11.8,Health Care,USA,23,68000,40088
+Cigna,256,39668,4.7,1867,59360,-10.8,Health Care,USA,22,41000,13723
+Delta Air Lines,257,39639,-2.6,4373,51261,-3.4,Transportation,USA,23,83756,12287
+Best Buy,258,39403,-0.9,1228,13856,36.9,Retailing,USA,19,125000,4709
+China National Building Material Group,259,39323,24,74.5,81224,,Materials,China,7,228448,5822
+Honeywell International,260,39302,1.9,4809,54146,0.9,Technology,USA,23,131000,19369
+JD.com,261,39155,35.7,-573,23077,,Technology,China,2,120622,4877
+Mitsubishi Electric,262,39119,6.9,1942.6,37519,2.1,Technology,Japan,23,138700,18307
+ZF Friedrichshafen,263,38888,20.2,949.9,30719,-12.1,Motor Vehicles & Parts,Germany,4,136820,6134
+Caterpillar,264,38537,-18,-67,74704,-103.2,Industrials,USA,23,95400,13137
+Liberty Mutual Insurance Group,265,38308,-2.9,1006,125592,95.7,Financials,USA,23,50000,20366
+Power Corp. of Canada,266,38286,27.9,855.5,315387,-40.5,Financials,Canada,19,30259,10339
+Morgan Stanley,267,37949,0.1,5979,814949,-2.4,Financials,USA,20,55311,76050
+Hengli Group,268,37880,12.2,821.7,14838,43.7,Industrials,China,1,61400,5498
+SSE,269,37813,-12.7,2082.9,29899,200.3,Energy,Britain,12,21157,7842
+Massachusetts Mutual Life Insurance,270,37788,-1.2,1273.5,271040,-10.6,Financials,USA,21,11737,15424
+Goldman Sachs Group,271,37712,-3.8,7398,860165,21.6,Financials,USA,18,34400,86893
+Johnson Controls International,272,37674,-6.3,-868,63253,-155.5,Industrials,Ireland,13,209000,24118
+GlaxoSmithKline,273,37642,3,1230.9,72985,-90.4,Health Care,Britain,23,99300,1389
+China Huaneng Group,274,37543,-13.1,-85.9,144306,-111.1,Energy,China,9,143691,7512
+Energy Transfer Equity,275,37504,-11,995,79011,-16.3,Energy,USA,4,30992,-1694
+Shenhua Group,276,37322,-0.8,1916.9,140911,37.9,Energy,China,8,202200,47962
+Greenland Holding Group,277,37240,12.8,1085.2,105495,-1,Financials,China,6,39887,8333
+TIAA,278,37105,5.5,1492.3,523194,22.9,Financials,USA,20,12997,35583
+Jardine Matheson,279,37051,0.1,2503,71523,39.3,Motor Vehicles & Parts,China,18,430000,21800
+Oracle,280,37047,-3.1,8901,112180,-10.4,Technology,USA,11,136000,47289
+ACS,281,36992,-4.5,830.5,35196,3.2,Engineering & Construction,Spain,13,117542,3778
+Sumitomo,282,36888,10.4,1577.1,69669,154,Wholesalers,Japan,23,70900,21241
+Tyson Foods,283,36881,-10.9,1768,22373,44.9,"Food, Beverages & Tobacco",USA,16,114000,9608
+Barclays,284,36789,-25.7,2807.4,1498612,,Financials,Britain,23,119300,80140
+Poste Italiane,285,36617,7.4,687.8,203760,12.3,Financials,Italy,12,136739,8578
+Centrica,286,36580,-14.4,2256.7,27046,,Energy,Britain,20,38278,3293
+United Continental Holdings,287,36556,-3.5,2263,40140,-69.2,Transportation,USA,22,88000,8659
+Allstate,288,36534,2.5,1877,108610,-13.5,Financials,USA,22,43275,20573
+Pertamina,289,36487,-12.6,3147,47233,121.6,Energy,Indonesia,5,27227,21864
+Magna International,290,36445,7.6,2031,22566,0.9,Motor Vehicles & Parts,Canada,17,155450,9768
+UBS Group,291,36230,-5.9,3252.2,920291,-49.6,Financials,Switzerland,23,59387,52777
+Intesa Sanpaolo,292,36225,-14.2,3440.3,764712,13.2,Financials,Italy,19,89126,51583
+George Weston,293,36211,-1.3,414.9,28299,0.6,Food & Drug Stores,Canada,23,195000,5790
+Mitsubishi Heavy Industries,294,36122,7.2,809.6,49205,52.3,Industrials,Japan,23,82728,15074
+Rajesh Exports,295,36114,43.1,185.8,3717,13.8,Wholesalers,India,2,328,868
+Pegatron,296,35891,-6.1,599.6,13776,-20.1,Technology,Taiwan,5,196251,4601
+Meiji Yasuda Life Insurance,297,35767,0.4,2064.8,362739,15.8,Financials,Japan,23,41872,12074
+Maersk Group,298,35464,-12,-1939,61118,-345.1,Transportation,Denmark,14,87736,31258
+SABIC,299,35421,-10.3,4757.1,84489,-4.9,Chemicals,Saudi Arabia,13,35000,43471
+Bouygues,300,35277,-2.2,809.5,36758,81.1,Engineering & Construction,France,23,117997,8585
+Volvo,301,35269,-4.8,1535.8,43924,-14,Motor Vehicles & Parts,Sweden,23,89477,10577
+Talanx,302,35101,-0.8,1003,165124,23.2,Financials,Germany,4,20039,9574
+Lufthansa Group,303,35011,-1.5,1964,36593,4.3,Transportation,Germany,23,107276,7446
+Royal Bank of Canada,304,34904,0.3,7839.6,880724,-1.8,Financials,Canada,23,75510,52994
+Accenture,305,34798,5.7,4111.9,20609,34.7,Technology,Ireland,16,384000,7555
+Repsol,306,34485,-12.5,1919.7,68392,,Energy,Spain,23,24396,32553
+China Vanke,307,34458,17.5,3164.5,119555,9.8,Financials,China,2,58280,16324
+Publix Super Markets,308,34274,5.1,2025.7,17464,3.1,Food & Drug Stores,USA,23,191000,13473
+Edeka Zentrale,309,34193,6.8,356,6921,28.3,Wholesalers,Germany,19,351500,1729
+J. Sainsbury,310,34149,-3.5,490.9,24674,-30.8,Food & Drug Stores,Britain,23,118700,7971
+Alimentation Couche-Tard,311,34145,-1.1,1193.5,12304,27.9,Food & Drug Stores,Canada,4,105000,5044
+China Energy Engineering Group,312,33930,2.1,421,44181,-22,Engineering & Construction,China,4,169173,5140
+Hyundai Heavy Industries,313,33881,-17.1,469.8,40783,,Industrials,South Korea,11,30767,13197
+ABB,314,33828,-4.7,1899,39499,-1.8,Industrials,Switzerland,23,132300,13395
+American Express,315,33823,-1.8,5408,158893,4.7,Financials,USA,23,56400,20501
+Rio Tinto Group,316,33781,-3,4617,89263,,Energy,Britain,12,51029,39290
+SNCF Mobilites,317,33747,3.8,565.1,39993,,Transportation,France,23,193718,4696
+CRRC,318,33739,-10.8,1700.3,48681,-9.6,Industrials,China,2,183061,15088
+CK Hutchison Holdings,319,33475,47.4,4252.4,130721,-72.2,Retailing,China,2,290000,54777
+Jizhong Energy Group,320,33366,-11.8,-153.9,30819,,Energy,China,7,127298,2042
+TJX,321,33184,7.2,2298.2,12884,0.9,Retailing,USA,16,235000,4511
+Xinxing Cathay International Group,322,33174,1.9,448.2,18705,-1.6,Materials,China,6,59429,4585
+Hyundai Mobis,323,32972,-0.7,2617.8,34541,-3.1,Motor Vehicles & Parts,South Korea,6,29499,23596
+Aisin Seiki,324,32879,21.6,1168.9,29964,39.9,Motor Vehicles & Parts,Japan,16,99389,11098
+Rite Aid,325,32845,6.9,4.1,11594,-97.6,Food & Drug Stores,USA,19,70430,614
+Shaanxi Yanchang Petroleum (Group),326,32652,2.8,-22.6,45552,,Energy,China,5,134134,14063
+DZ Bank,327,32636,4.6,1623.4,537278,3.4,Financials,Germany,23,28264,21160
+UniCredit Group,328,32539,-5.9,-13038,906489,-793.7,Financials,Italy,22,117659,41484
+China Everbright Group,329,32461,-1.3,1877.8,627701,-11.2,Financials,China,3,61400,15661
+Daiwa House Industry,330,32421,21.9,1861.5,31917,115.8,Engineering & Construction,Japan,13,60539,10761
+Nike,331,32376,5.8,3760,21396,14.9,Apparel,USA,11,70700,12258
+Iberdrola,332,32308,-7.3,2991.3,112536,11.4,Energy,Spain,13,28389,38695
+Commonwealth Bank of Australia,333,32287,-14.3,6712.9,694565,-10.9,Financials,Australia,13,45129,44816
+Sinomach,334,32237,-8.2,502,39142,-34.5,Industrials,China,7,115390,8930
+Fresenius,335,32161,4.9,1761.6,48984,16.9,Health Care,Germany,8,232873,13186
+China Aerospace Science & Technology,336,32094,5,1996.2,55721,7.7,Aerospace & Defense,China,3,170357,21440
+Shaanxi Coal & Chemical Industry,337,31926,5.3,-254.4,64151,,Energy,China,3,123559,5769
+China Evergrande Group,338,31828,50.2,2368.8,194384,-4.3,Financials,China,2,89250,22618
+Jiangxi Copper,339,31680,0.4,20.4,16108,,Energy,China,5,25460,2967
+Sompo Holdings,340,31559,16.4,1535.7,107092,15.5,Financials,Japan,21,47430,8424
+China Poly Group,341,31508,18.1,744.1,95657,-11.4,Financials,China,3,76425,7676
+Chubb,342,31469,65.7,4135,159786,45.9,Financials,Switzerland,1,31000,48275
+Zhejiang Geely Holding Group,343,31430,19.5,1265.7,29749,341.6,Motor Vehicles & Parts,China,6,60712,5896
+Exelon,344,31360,6.5,1134,114904,-50,Energy,USA,14,34396,25837
+General Dynamics,345,31353,-0.4,2955,32872,-0.3,Aerospace & Defense,USA,17,98800,10976
+BT Group,346,31333,9.3,2484.6,52972,-36.2,Telecommunications,Britain,23,106400,10420
+Canon,347,31271,-0.4,1385,44062,-23.9,Technology,Japan,23,197673,23865
+Wuchan Zhongda Group,348,31185,7.3,324.3,11018,47.2,Wholesalers,China,7,18150,2900
+Mitsubishi Chemical Holdings,349,31158,5.6,1442.1,40064,237.1,Chemicals,Japan,23,69291,9796
+BHP Billiton,350,30912,-40.9,-6385,118953,-434.3,Energy,Australia,23,26827,54290
+Toronto-Dominion Bank,351,30855,2.3,6646.1,878268,4.5,Financials,Canada,18,81233,54148
+Subaru,352,30696,14,2605.8,24794,-28.4,Motor Vehicles & Parts,Japan,15,36668,13285
+Bridgestone,353,30678,-2,2441.3,31901,3.9,Motor Vehicles & Parts,Japan,23,143616,20268
+Credit Suisse Group,354,30588,-13,-2750.7,806950,,Financials,Switzerland,23,47170,41237
+China Aerospace Science & Industry,355,30582,9.7,1443.7,36999,-1.8,Aerospace & Defense,China,2,148682,13654
+JFE Holdings,356,30539,6.8,627,38920,123.6,Materials,Japan,15,60439,15632
+Mizuho Financial Group,357,30390,13.5,5570.1,1799736,-0.3,Financials,Japan,17,59179,62843
+Gilead Sciences,358,30390,-6.9,13501,56977,-25.4,Health Care,USA,3,9000,18887
+CHS,359,30347,-12.2,424.2,17318,-45.7,"Food, Beverages & Tobacco",USA,10,12157,7852
+Bharat Petroleum,360,30316,4.2,1300.5,16801,6.7,Energy,India,14,13395,4747
+3M,361,30109,-0.5,5050,32906,4.5,Industrials,USA,23,91584,10298
+China Electronics,362,30010,-4.8,321.9,36575,82.6,Technology,China,7,144659,4831
+CRH,363,29973,14.3,1374.6,33320,71.2,Materials,Ireland,14,86778,14654
+China State Shipbuilding,364,29877,-1,367.6,40773,-16.1,Industrials,China,2,68025,9164
+Jiangsu Shagang Group,365,29862,-8.8,352.1,23720,148.5,Materials,China,9,35133,5584
+China COSCO Shipping,366,29743,29.5,1489,94792,30.1,Transportation,China,10,106478,24148
+Mazda Motor,367,29665,4.5,865.5,22660,-22.7,Motor Vehicles & Parts,Japan,23,48849,8455
+State Power Investment,368,29493,-3.7,436.6,126068,50.9,Energy,China,6,127343,8477
+Taiwan Semiconductor Manufacturing,369,29388,10.6,10283.7,58535,7.8,Technology,Taiwan,3,46968,42174
+Vale,370,29363,14.7,3982,99014,,Energy,Brazil,11,73062,39042
+Time Warner,371,29318,4.3,3926,65966,2.4,Media,USA,16,25000,24335
+Shandong Energy Group,372,29299,16.6,39.2,39887,,Energy,China,6,179689,6575
+Suzuki Motor,373,29252,10.4,1476.2,27969,51.9,Motor Vehicles & Parts,Japan,23,62992,10318
+LyondellBasell Industries,374,29183,-10.9,3836,23442,-14.3,Chemicals,Netherlands,10,13000,6048
+Royal Philips,375,29003,1.1,1601.3,34068,123.8,Health Care,Netherlands,23,114731,13289
+Charter Communications,376,29003,197.3,3522,149067,,Telecommunications,USA,1,91500,40139
+Medtronic,377,28833,42.3,3538,99782,32.3,Health Care,Ireland,1,98017,52063
+Northwestern Mutual,378,28799,2.4,818,250441,0.4,Financials,USA,23,5646,20226
+L’Oreal,379,28572,2,3434.5,37577,-6.1,Household Products,France,23,89331,25840
+Dalian Wanda Group,380,28483,4,110.3,152701,-95.5,Financials,China,2,155905,17237
+Medipal Holdings,381,28277,12.1,267.7,13696,4.5,Wholesalers,Japan,15,15745,3607
+China Huadian,382,28204,-10.3,360.6,112115,-70.3,Energy,China,6,107000,7947
+AIA Group,383,28196,21.1,4164,185074,54.7,Financials,China,3,20000,34984
+Hindustan Petroleum,384,28166,-2.3,1228.1,12370,63.4,Energy,India,14,10422,3245
+Migros Group,385,28155,-1.2,693.3,62536,-16.7,Food & Drug Stores,Switzerland,23,77704,17132
+Air France-KLM Group,386,27920,-3.4,875.8,24185,569.1,Transportation,France,21,82175,1354
+Compass Group,387,27837,2.5,1408.5,13693,5,"Hotels, Restaurants & Leisure",Britain,16,527180,3254
+Schlumberger,388,27810,-21.6,-1687,77956,-181.4,Energy,USA,17,100000,41078
+Kansai Electric Power,389,27792,2.8,1299.3,61513,10.8,Energy,Japan,23,32666,11205
+Quanta Computer,390,27715,-12.7,469.3,18229,-16.4,Technology,Taiwan,12,92698,4123
+Westpac Banking,391,27704,-10.8,5477,642083,-12.7,Financials,Australia,13,35280,44468
+Coop Group,392,27669,2.8,482.1,18369,11.5,Food & Drug Stores,Switzerland,8,73451,8250
+Facebook,393,27638,54.2,10217,64961,177,Technology,USA,1,17048,59194
+Travelers Cos.,394,27625,3.1,3014,100245,-12.4,Financials,USA,14,30900,23221
+Capital One Financial,395,27519,9.6,3751,357033,-7.4,Financials,USA,7,47300,47514
+Twenty-First Century Fox,396,27326,-5.7,2755,48365,-66.8,Media,USA,23,21500,13661
+China Guodian,397,27315,-10.5,268.7,114611,-67.2,Energy,China,8,124056,7496
+LafargeHolcim,398,27308,11.4,1817.9,68521,,Materials,Switzerland,9,90903,30337
+Schneider Electric,399,27307,-7.6,1935.2,44137,24,Technology,France,16,143901,21614
+China Electronics Technology Group,400,27292,3.3,1611.6,35898,-1.5,Aerospace & Defense,China,2,158064,15895
+USAA,401,27131,11.4,1779.1,147290,-21.7,Financials,USA,4,29943,28840
+World Fuel Services,402,27016,-11.1,126.5,5413,-27.5,Energy,USA,6,5000,1925
+Phoenix Pharmahandel,403,26976,5.2,135.4,9292,-39.5,Wholesalers,Germany,7,26611,2732
+Veolia Environnement,404,26972,-2.6,423.6,40022,-15.2,Energy,France,15,156225,8173
+National Australia Bank,405,26958,-21.1,259,594967,-94.8,Financials,Australia,22,34263,39244
+Philip Morris International,406,26685,-0.4,6967,36851,1.4,"Food, Beverages & Tobacco",USA,9,79500,-12688
+Deere,407,26644,-7.7,1523.9,57981,-21.4,Industrials,USA,23,56767,6520
+East Japan Railway,408,26587,11.3,2565,71009,25.5,Transportation,Japan,23,85834,23253
+Achmea,409,26494,2.8,-423.5,98096,-199.7,Financials,Netherlands,4,14921,10308
+Kraft Heinz,410,26487,44.4,3632,120480,472.9,"Food, Beverages & Tobacco",USA,3,41000,57358
+Cathay Life Insurance,411,26292,14.9,934,172442,-22.5,Financials,Taiwan,16,36578,11212
+Tech Data,412,26235,-0.5,195.1,7932,-26.6,Wholesalers,USA,19,9500,2170
+Samsung Life Insurance,413,26222,7,1770.3,219157,65.3,Financials,South Korea,21,5284,22064
+Avnet,414,26219,-6.1,506.5,11240,-11.4,Wholesalers,USA,7,17700,4691
+Nokia,415,26113,73.4,-847.1,47354,-131,Technology,Finland,19,102687,21192
+Enbridge,416,26073,-1.4,1560.9,64011,695,Energy,Canada,4,7733,15949
+Gas Natural Fenosa,417,26070,-11.5,1489.6,49688,-10.6,Energy,Spain,9,17229,16057
+Australia & New Zealand Banking Group,418,26032,-10.1,4199.9,699976,-28.4,Financials,Australia,14,46554,44237
+LM Ericsson,419,26004,-11.2,200.5,31199,-87.5,Technology,Sweden,23,111464,15395
+Sumitomo Electric Industries,420,25975,6.3,992.7,26062,31,Motor Vehicles & Parts,Japan,23,248330,11769
+Mondelez International,421,25923,-12.5,1659,61538,-77.2,"Food, Beverages & Tobacco",USA,10,90000,25161
+Old Mutual,422,25913,23.8,769.3,211943,-18,Financials,Britain,16,68527,9949
+Idemitsu Kosan,423,25888,-1,813.7,23711,,Energy,Japan,23,9139,3852
+Bank of Nova Scotia,424,25817,2.8,5362.2,668805,-4.9,Financials,Canada,20,88901,41975
+Macy’s,425,25778,-4.8,619,19851,-42.3,Retailing,USA,23,148300,4323
+Mapfre Group,426,25775,3.9,857.5,71590,9.1,Financials,Spain,10,37020,9625
+La Poste,427,25760,0.8,938.9,257526,33.3,Transportation,France,22,240407,11513
+Inditex,428,25733,11.6,3485,21203,9.9,Retailing,Spain,2,162450,13738
+AbbVie,429,25638,12.2,5953,66099,15.7,Health Care,USA,2,30000,4636
+Datong Coal Mine Group,430,25630,-19.8,-214.8,40012,,Energy,China,5,162542,3169
+Lotte Shopping,431,25444,-1.2,144.9,34710,,Retailing,South Korea,4,26357,13502
+Standard Life,432,25279,46.9,496.7,235324,-77.2,Financials,Britain,19,6302,5370
+Shanxi Coking Coal Group,433,25123,-19.1,-10,39206,-113.1,Energy,China,5,209817,4318
+Adecco Group,434,25112,2.9,799.5,10651,8909.5,Business Services,Switzerland,19,33000,3918
+International Airlines Group,435,24956,-1.6,2135.4,28868,28.8,Transportation,Britain,20,63387,5649
+McDonald’s,436,24622,-3.1,4686.5,31024,3.5,"Hotels, Restaurants & Leisure",USA,23,375000,-2204
+NEC,437,24596,4.5,252,24091,-60.1,Technology,Japan,23,107729,7668
+DuPont,438,24594,-12,2513,39964,28.7,Chemicals,USA,23,46000,9998
+China National Aviation Fuel Group,439,24588,11.3,320,6093,-4.3,Wholesalers,China,7,11739,2263
+Northrop Grumman,440,24508,4.2,2200,25614,10.6,Aerospace & Defense,USA,18,67000,5259
+Brookfield Asset Management,441,24411,22.6,1651,159826,-29.5,Financials,Canada,1,55700,26453
+Mercantil Servicios Financieros,442,24403,50.3,2004.2,148659,-10.5,Financials,Venezuela,1,8370,7550
+SAP,443,24397,5.8,4031.9,46696,18.6,Technology,Germany,2,84183,27817
+ConocoPhillips,444,24360,-21.3,-3615,89772,,Energy,USA,23,13300,34974
+Yangquan Coal Industry Group,445,24284,-14.2,11.1,30793,,Energy,China,5,146236,1783
+Danone,446,24267,-2.4,1902.1,46350,33.8,"Food, Beverages & Tobacco",France,23,99187,13825
+Samsung C&T,447,24217,105.2,92.5,36816,-96.2,Engineering & Construction,South Korea,1,13898,15155
+Shanxi LuAn Mining Group,448,24087,-15.9,-106.9,29026,,Energy,China,5,95666,2542
+Raytheon,449,24069,3.5,2211,30052,6.6,Aerospace & Defense,USA,22,63000,10066
+Midea Group,450,24060,8.5,2210.4,24549,9.3,Technology,China,2,126418,8796
+Chubu Electric Power,451,24028,1.1,1058.2,48580,-25.2,Energy,Japan,23,30635,14695
+BAE Systems,452,24011,-6.4,1232.3,28383,-12.1,Aerospace & Defense,Britain,23,76000,4247
+Andeavor,453,24005,-14.7,734,20398,-52.3,Energy,USA,11,6308,5465
+China Datang,454,23871,-9.7,243.9,101631,32.9,Energy,China,8,97091,7371
+Flex,455,23863,-2.3,319.6,12593,-28,Technology,Singapore,17,200000,2645
+Arrow Electronics,456,23825,2.3,522.8,14206,5,Wholesalers,USA,4,18700,4413
+Heraeus Holding,457,23793,65.9,,4982,,Materials,Germany,7,12369,3160
+Compal Electronics,458,23773,-10.9,252.1,10769,-7.9,Technology,Taiwan,6,64728,3283
+Yango Financial Holding,459,23657,11.5,159.2,24231,-59,Financials,China,1,10234,1925
+Qualcomm,460,23554,-6.8,5705,52359,8.2,Technology,USA,4,30500,31778
+Alfresa Holdings,461,23551,9.7,285.1,11273,-2.1,Wholesalers,Japan,8,13217,2993
+Alibaba Group Holding,462,23517,47.9,6489.5,73538,-42.2,Technology,China,1,50097,40454
+Koc Holding,463,23456,-8.1,1144.2,25047,-12.7,Energy,Turkey,16,95456,7345
+Progressive,464,23441,12.4,1031,33428,-18.7,Financials,USA,4,31721,7957
+Duke Energy,465,23369,-1,2152,132761,-23.6,Energy,USA,14,28798,41033
+Michelin,466,23120,-1.7,1853.4,26705,43,Motor Vehicles & Parts,France,23,105654,11178
+Country Garden Holdings,467,23044,27.9,1733.6,85124,17.4,Financials,China,1,94450,10091
+Heineken Holding,468,23044,-0.7,861.5,41469,-18.9,"Food, Beverages & Tobacco",Netherlands,11,73525,6958
+Enterprise Products Partners,469,23022,-14.8,2513.1,52194,-0.3,Energy,USA,7,6800,22047
+AstraZeneca,470,23002,-6.9,3499,62526,23.9,Health Care,Britain,19,59700,14854
+Amgen,471,22991,6.1,7722,77626,11.3,Health Care,USA,2,19200,29875
+Rabobank Group,472,22956,-4.4,828.3,698790,-15.1,Financials,Netherlands,23,40029,27232
+Altice,473,22953,42.2,-1722.5,84805,,Telecommunications,Netherlands,1,49732,-2668
+Onex,474,22943,3.8,-130,42913,,Technology,Canada,18,161000,-490
+US Foods Holding,475,22919,-0.9,209.8,8945,25.2,Wholesalers,USA,2,25000,2538
+Shanxi Jincheng Anthracite Coal Mining Group,476,22875,-17,3,32954,,Energy,China,5,135691,2988
+Randstad Holding,477,22873,7.3,650.2,9624,13,Business Services,Netherlands,5,32280,4366
+Tencent Holdings,478,22871,39.7,6185.9,56968,35,Technology,China,1,38775,25128
+LG Display,479,22840,-9,781.4,20606,-8.6,Technology,South Korea,6,49094,10729
+Emirates Group,480,22799,0.3,340.3,33096,-82.5,Transportation,U.A.E,2,64768,9395
+U.S. Bancorp,481,22744,5.8,5888,445964,0.2,Financials,USA,12,71191,47298
+H & M Hennes & Mauritz,482,22618,4.6,2192.3,10681,-12.3,Retailing,Sweden,2,114586,6635
+Aflac,483,22559,8.1,2659,129819,5,Financials,USA,10,10212,20482
+Sodexo,484,22477,-2,707.2,15766,-12.7,"Hotels, Restaurants & Leisure",France,18,425594,4085
+Suning Commerce Group,485,22366,3.7,106,19738,-23.6,Retailing,China,1,60354,9455
+GS Caltex,486,22207,-11.4,1221.1,15969,42.1,Energy,South Korea,6,2949,8150
+Ultrapar Holdings,487,22167,-2.3,447.5,7426,-0.8,Energy,Brazil,8,15173,2621
+Xiamen C&D,488,22145,6.6,280.2,21729,15.6,Wholesalers,China,1,18381,3985
+Sears Holdings,489,22138,-12,-2221,9362,,Retailing,USA,23,140000,-3824
+China General Technology,490,22113,-20.1,413.6,20860,-20.8,Engineering & Construction,China,4,38589,5114
+National Grid,491,22036,-3.2,10150.6,82310,160.2,Energy,Britain,12,22132,25463
+Dollar General,492,21987,7.9,1251.1,11672,7.4,Retailing,USA,1,121000,5406
+Telecom Italia,493,21941,-17.4,1999.4,74295,,Telecommunications,Italy,18,61227,22366
+Xiamen ITG Holding Group,494,21930,34.3,35.6,12161,-25.1,Wholesalers,China,1,18454,1066
+Xinjiang Guanghui Industry Investment,495,21919,31.1,251.8,31957,49.9,Wholesalers,China,1,65616,4563
+Teva Pharmaceutical Industries,496,21903,11.5,329,92890,-79.3,Health Care,Israel,1,56960,33337
+New China Life Insurance,497,21796,-13.3,743.9,100609,-45.6,Financials,China,2,54378,8507
+Wm. Morrison Supermarkets,498,21741,-11.3,406.4,11630,20.4,Food & Drug Stores,Britain,13,77210,5111
+TUI,499,21655,-5.5,1151.7,16247,195.5,Business Services,Germany,23,66779,3006
+AutoNation,500,21609,3.6,430.5,10060,-2.7,Retailing,USA,12,26000,2310
